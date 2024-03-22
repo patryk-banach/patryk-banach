@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @patryk-banach
+- 👀 I’m interested in UX/UI Design, Front-End development
+- 🌱 I’m currently learning React, JSX
+- 😄 Pronouns: he/him
